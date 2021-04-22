@@ -1,0 +1,13 @@
+project:
+  folder1:
+    main.py
+  folder2:
+    source:
+      source.cpp
+    header:
+      header.hpp
+  folder3:
+    readme.txt
+    module1.py
+project2:
+  file.js
